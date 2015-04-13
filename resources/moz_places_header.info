@@ -1,0 +1,11 @@
+moz_places:id:url:title:rev_host:visit_count:hidden:typed:favicon_id:frecency:last_visit_date:guuid:
+moz_bookmarks:id:type:fk:parent:position:title:date_added:last_modified:keyword_id:folder_type::
+moz_bookmarks_roots:rootname:folder:::
+moz_inputhistory:placeid:input:use count:::
+moz_keywordsid:keyword:::
+moz_sequencename:seq:::
+moz_faviconsid:url:data:mime_type:expiration:::
+moz_annosid:place_id:anno_attribute_id:mime_type:content:flags:expiration:type:dateAdded:lastModified:
+moz_anno_attributes:id:name:::
+moz_items_annos:id:item_id:anno_attribute_id:mime_type:content:flags:expiration:type:dateAdded:lastModified:
+moz_history_visits:id:from_visit:place_id:visit_date:visit_type:session::   
